@@ -18,3 +18,6 @@ O modelo inclui relacionamentos que conectam as entidades, permitindo que os dad
 Este modelo lógico é um ponto de partida para o design de um banco de dados completo para um aplicativo de pedidos de alimentos. A implementação real exigirá a criação de tabelas, definição de chaves primárias e estrangeiras, índices e consultas SQL.
 
 Sinta-se à vontade para usar este modelo como referência ao criar seu próprio banco de dados ou expandi-lo para atender aos requisitos específicos do seu projeto. Consulte a seção de "Contribuições" se desejar colaborar no aprimoramento deste modelo.
+
+
+<img src="https://github.com/vidalYep/Banco_Delivery/blob/main/banco%20delivery.PNG"/>
