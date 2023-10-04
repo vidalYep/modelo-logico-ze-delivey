@@ -20,4 +20,4 @@ Este modelo lógico é um ponto de partida para o design de um banco de dados co
 Sinta-se à vontade para usar este modelo como referência ao criar seu próprio banco de dados ou expandi-lo para atender aos requisitos específicos do seu projeto. Consulte a seção de "Contribuições" se desejar colaborar no aprimoramento deste modelo.
 
 
-<img src="https://github.com/vidalYep/Banco_Delivery/blob/main/banco%20delivery.PNG"/>
+<img src="https://github.com/vidalYep/modelo-logico-ze-delivey/blob/main/modelo%20logico%20ze%20delivery%20.png"/>
